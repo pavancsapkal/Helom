@@ -8,5 +8,6 @@ class time
    {
      time t=new time();
      t.get();
+    System.out.prinln("Updated");
    }
 }   
